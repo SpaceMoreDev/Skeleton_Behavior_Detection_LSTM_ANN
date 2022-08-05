@@ -21,7 +21,17 @@ This data is considered as an input for our model where we have animation frames
 
 ![image](https://user-images.githubusercontent.com/60396165/183024042-be9a4ca8-ff93-4a40-98a4-3bf11e5b2b42.png)
 
+## Tools 
+− Anaconda enviroments: is a platform for efficient developing and applying AI and machine learning models.
+
+− VS Code: An open-source notebook environment that enables developers to work and integrate their systems quickly.
+
+− Blender: is a 3d modeling and animation program that allows developers to write python addons in-program.
+
+− Adobe Mixamo: is an open-source animation/poses database available online by Adobe. 
+
+
 ### To run the project: 
 
-Run the Websocket.ipynb first to get data from the model to unity.
+Run the Python scripts\Websocket\Websocket.ipynb first to get data from the model to unity.
 you can test animation sequences by adding animations to the character's animation controller
