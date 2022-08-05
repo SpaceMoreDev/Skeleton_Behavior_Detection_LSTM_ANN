@@ -1,3 +1,5 @@
+Run this script inside of Blender using the scripting workspace.
+
 Place the Blender_bone_extracor.py inside a folder that holdes the animations in folders.
 because we use the folders names as classes.
 
